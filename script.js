@@ -4,3 +4,5 @@ setInterval(() => {
     number++;
     countElement.innerHTML = number;
 },1000)
+
+//a new comment
